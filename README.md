@@ -54,9 +54,9 @@ With minimal effort, the H2O AutoML will be in the top 10% of the leaderboard fo
 ### Results
 
 - Target: Top 10% of submissions
-- Titanic: 76% (In the top 79% of submissions)
-- MNIST: 96.1% (In the top 80% of submissions)
-- Housing: 0.13 (In the top 44% of submissions)
+- Titanic: 76% accuracy (In the top 79% of submissions)
+- MNIST: 96.1% accuracy (In the top 80% of submissions)
+- Housing: 0.13 score (In the top 44% of submissions)
 
 ### Conclusion
 
