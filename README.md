@@ -60,4 +60,4 @@ With minimal effort, the H2O AutoML will be in the top 10% of the leaderboard fo
 
 ### Conclusion
 
-Simply using the H2O AutoML with 5 minutes of training isn't enough to get into the top 10th percentile.
+Simply using the H2O AutoML with 5 minutes of training isn't enough to get into the top 10% of submissions.
