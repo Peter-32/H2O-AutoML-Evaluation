@@ -51,13 +51,12 @@ With minimal effort, the H2O AutoML will be in the top 10% of the leaderboard fo
     - Follow H2O Instructions to get code
     - Train for 10 minutes
 
-
-
 ### Results
 
-- Titanic: 76% (79th percentile)
-- MNIST: 96.1% (80th percentile)
-- Housing: 0.13 (44th percentile)
+- Target: Top 10% of submissions
+- Titanic: 76% (In the top 79% of submissions)
+- MNIST: 96.1% (In the top 80% of submissions)
+- Housing: 0.13 (In the top 44% of submissions)
 
 ### Conclusion
 
