@@ -38,17 +38,17 @@ With minimal effort, the H2O AutoML will be in the top 10% of the leaderboard fo
 
 - Titanic
   - Improve Algorithms
-    - Follow H2O Instructions to get code
+    - Follow Auto H2O Documentation
     - Train for 5 minutes
 
 - MNST
   - Improve Algorithms
-    - Follow H2O Instructions to get code
+    - Follow Auto H2O Documentation
     - Train for 5 minutes  
 
 - Housing Prices
   - Improve Algorithms
-    - Follow H2O Instructions to get code
+    - Follow Auto H2O Documentation
     - Train for 5 minutes
 
 ### Results
