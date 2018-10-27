@@ -56,12 +56,3 @@ predictions['Survived'] = preds.as_data_frame()[['predict']]
 predictions
 
 predictions.to_csv("/Users/peterjmyers/Work/H2O-AutoML-Evaluation/data/titanic/predictions.csv", index=False)
-
-
-
-
-
-# Notify Peter
-import requests
-msg = "done"
-requests.post("https://hooks.slack.com/services/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",json={ "text": "{}: {}".format("DATABRICKS", msg)})
